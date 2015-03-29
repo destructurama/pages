@@ -1,2 +1,1 @@
-# pages
-Hosting for the NuGet package icon. That's it!
+Hosting for Destructurama! NuGet package icon. That's it!
